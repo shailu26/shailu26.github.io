@@ -292,3 +292,7 @@ main {
     margin-top: 10vh; }
   .projects {
     grid-template-columns: 1fr; } }
+
+.job-ul {
+  padding-inline-start: 15px;
+}
